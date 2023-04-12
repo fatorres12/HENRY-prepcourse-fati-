@@ -1,2 +1,3 @@
-# HENRY-prepcourse-fati-
-mi primer repositorio fatima modulo 2 
+Fatima torres
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio local
+
